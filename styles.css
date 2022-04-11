@@ -1,0 +1,94 @@
+.profile{
+    position: relative;
+    bottom: 90px;
+    left: 20px;
+
+}
+.photo{
+    position:absolute;
+    top: 100px;
+    left: 20px;
+}
+.notification{
+    position: relative;
+    right: 120px;
+    left: 765px;
+    bottom: 165px;
+}
+.notifi{
+    position: relative;
+    right: 100px;
+    left: 800px;
+    bottom: 185px;
+}
+.name{
+    position: relative;
+    bottom: 185px;
+    left: 185px;
+}
+.sub{
+    position: relative;
+    bottom: 201px;
+    left: 335px;
+}
+.wavehand{
+    position: relative;
+    left: 20px;
+    bottom: 170px;
+}
+.welcome{
+        position: relative;
+        left: 50px;
+        bottom: 194px;
+}
+.pie{
+    position: relative;
+        bottom: 50px;
+}
+.graph{
+    position: relative;
+    bottom: 50px;
+}
+.scroll{
+    margin-left: 150px;
+}
+.form-control{
+    margin-left: 450px;
+    border-radius: 2rem;
+}
+.camera{
+    position: relative;
+    left: 900px;
+    bottom: 30px;
+}
+.letters{
+    position: relative;
+    bottom: 220px;
+    font-size:12px;
+}
+.search{
+    position: relative;
+    right: 330px;
+    top: 6px;
+}
+.bell{
+    position: relative;
+    right: 120px;
+    top: 10px;
+}
+#navbarDropdown{
+    position: relative;
+    right: 70px;
+}
+.btn{
+    background: #53B9EA;
+    bottom: 250px;
+}
+.click{
+    position: relative;
+    bottom: 170px;
+}
+.line{
+    position: relative;
+    bottom: 73px;
+}
